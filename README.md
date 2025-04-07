@@ -8,5 +8,5 @@ A mono spaced serif font<br>
 https://leviston-gallery.vercel.app/
 
 
-contact<br>
+<strong>contact</strong><br>
 leviston.studio@gmail.com
