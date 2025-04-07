@@ -1,4 +1,4 @@
-<bold>Leviston Studio</bold><br>
+<strong>Leviston Studio</strong><br>
 A graphic design studio
 
 
