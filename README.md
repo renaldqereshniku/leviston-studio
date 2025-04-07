@@ -1,12 +1,12 @@
-#Leviston Studio
+Leviston Studio <br>
   A graphic design studio
 
 
-In The Works
+In The Works <br>
   Leviston Mono Light
   A mono spaced serif font
   https://leviston-gallery.vercel.app/
 
 
-contact
+contact <br>
   leviston.studio@gmail.com
