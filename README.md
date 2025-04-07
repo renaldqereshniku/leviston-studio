@@ -2,9 +2,9 @@
 A graphic design studio
 
 
-**In the works
-**Leviston Mono Light
-A mono spaced serif font
+#In the works
+Leviston Mono Light
+**A mono spaced serif font
 https://leviston-gallery.vercel.app/
 
 
