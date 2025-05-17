@@ -1,5 +1,5 @@
 <strong>Leviston Studio</strong><br>
-A graphic design studio
+Graphic design services
 
 
 <strong>In the works</strong><br>
