@@ -1,6 +1,3 @@
-<strong>Leviston Studio</strong><br>
-A graphic design studio
-
 
 <strong>In the works</strong><br>
 Leviston Mono Light / A mono spaced serif font<br>
